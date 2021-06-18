@@ -1,0 +1,22 @@
+[
+	{
+	"name": "Гайк",
+	"lastname": "Инанц",
+	"age": 20
+	},
+	{
+	"name": "Гайк1",
+	"lastname": "Инанц1",
+	"age": 30
+	},
+	{
+	"name": "Гайк2",
+	"lastname": "Инанц2",
+	"age": 40
+	},
+	{
+		"name": "Jo",
+		"lastname": "Taro",
+		"age": 50
+	}
+]
